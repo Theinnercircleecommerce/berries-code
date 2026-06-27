@@ -29,7 +29,11 @@ export function SettingsModal({ onClose }: Props) {
     try {
       const { check } = await import("@tauri-apps/plugin-updater");
       const { relaunch } = await import("@tauri-apps/plugin-process");
-      const update = await check();
+      const update = await check({
+        endpoints: [
+          `https://raw.githubusercontent.com/Theinnercircleecommerce/berries-code/main/latest.json?t=${Date.now()}`
+        ]
+      });
       if (update?.available) {
         setUpdateStatus({
           state: "available",

@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Berries Code 0.3.2",
-  "pub_date": "2026-06-27T10:12:37Z",
+  "version": "",
+  "notes": "Berries Code  - Cache buster added",
+  "pub_date": "2026-06-27T10:17:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2xvMWRUOWhPeWhoK1lVaGZkb1IwTUVqTU5RR05Sak5sbXV4bEtmbnNFQ0pmcmJDbFZIdEFIKzNpc1JOdG11STZVZ0hQc295SGJFV0hpL0xPZmRpbHlRSmZFbHp6QlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTU1MDM3CWZpbGU6QmVycmllcyBDb2RlXzAuMy4yX2FybTY0LmRtZwozVElXZndVRlJGU1ByME9oenc1SU50T05Wd2lUaHEwd2Nvb1RzZHNhMnpyaVIxSXZWQURTUzY1Uk4zUHBmNTlzb0VFeHc2cUVDTkpLZTlQd0lkenhCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/Theinnercircleecommerce/berries-code/main/releases/BerriesCode_0.3.2_arm64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2xvMWRUOWhPeXVXcEc2ampsS3d2RXp0bU5uNnF5T3NWNDlEMDhtUEhuTUxEdjZ1ZFpuQ2NlV29IUFF2QnZVZG5Jb3F5c2dzeTlhNGhGUjBGdlRIR1N4Ty95OXVTU0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTU1NDQyCWZpbGU6QmVycmllc0NvZGVfX2FybTY0LmRtZwpDZno2UGE2c2Z1bXFkS0pDUko2WlZac3lyMlFDajY5UllMUDh5SGRERGdpWDZZbDlyMDEzTERzQlIvaU1zdGF1OFVaK3hQVXVadWNVSEtVZnJyOXdEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Theinnercircleecommerce/berries-code/main/releases/BerriesCode__arm64.dmg"
     }
   }
 }
