@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+src-tauri/target/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Installers (built by CI, not committed)
+*.dmg
+*.app
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
