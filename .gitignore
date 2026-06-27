@@ -9,9 +9,8 @@ src-tauri/target/
 .DS_Store
 **/.DS_Store
 
-# Installers (built by CI, not committed)
-*.dmg
-*.app
+# Local build artifacts only (release DMGs at repo root are committed)
+src-tauri/target/
 
 # Environment / secrets
 .env
