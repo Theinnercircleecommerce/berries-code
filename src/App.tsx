@@ -27,11 +27,7 @@ export default function App() {
     const checkUpdate = async () => {
       try {
         const { check } = await import("@tauri-apps/plugin-updater");
-        const update = await check({
-          endpoints: [
-            `https://raw.githubusercontent.com/Theinnercircleecommerce/berries-code/main/latest.json?t=${Date.now()}`
-          ]
-        });
+        const update = await check();
         if (update?.available) {
           setPendingUpdate({ version: update.version });
         }
